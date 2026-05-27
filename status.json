@@ -1,5 +1,5 @@
 {
-  "active": false,
+  "active": true,
    "severity": "warning",
   "message": "O sistema esta passando por instabilidades"
 }
